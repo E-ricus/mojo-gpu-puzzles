@@ -1,7 +1,10 @@
 # pixi environments
 .pixi
 *.egg-info
-*.lock
+pixi.lock
+
+# direnv
+.direnv
 # misc
 *.DS_Store
 __pycache__
